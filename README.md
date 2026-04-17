@@ -1,16 +1,22 @@
-# smartprodexpiry
+# Smart Expiry – Expiry Management System
 
-A new Flutter project.
+## Project Overview
+Smart Expiry is a smart application designed to help users track and manage the expiry dates of products such as food items, medicines, and other essentials. The system provides timely reminders and notifications to avoid wastage and ensure efficient usage.
 
-## Getting Started
+## Features
+- 📅 Track expiry dates of products
+- 🔔 Get alerts and reminders before expiry
+- 📦 Manage multiple items in one place
+- 🧠 Smart organization to reduce waste
+- 📱 User-friendly interface
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- (Add your tech here: React / Flutter / JavaScript / etc.)
 
-A few resources to get you started if this is your first Flutter project:
+## My Contribution
+- Designed and developed the application
+- Implemented expiry tracking logic
+- Built user-friendly interface and alert system
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Sanavi Panchpor
